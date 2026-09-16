@@ -2,6 +2,7 @@
   "name": "tripnest-directory",
   "version": "2.0.0",
   "private": true,
+  "type": "module",
   "description": "TripNest tourism business directory with subscriptions, password/Google auth, reviews and dedicated SEO profiles.",
   "dependencies": {
     "@supabase/supabase-js": "^2.57.0"
