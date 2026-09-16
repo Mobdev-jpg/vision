@@ -1,6 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/business/:slug", "destination": "/api/business/:slug" },
-    { "source": "/sitemap.xml", "destination": "/api/sitemap" }
-  ]
-}
