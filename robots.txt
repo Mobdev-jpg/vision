@@ -2,5 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /dashboard.html
 Disallow: /login.html
-Disallow: /api/
-Sitemap: https://your-domain.com/sitemap.xml
+Sitemap: https://mobdev-jpg.github.io/vision/sitemap.xml
